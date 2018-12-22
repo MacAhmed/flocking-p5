@@ -14,3 +14,4 @@ Locality is currently defined as all flockmates in a certain distance. Howeve,r 
 * Improve the seperation behaviour.
 * Implement the angle-based idea of a neighbourhood - not just a distance-based neighbourhood. 
 
+[1]. Reynolds, C. (2001). Boids (Flocks, Herds, and Schools: a Distributed Behavioral Model). [online] Red3d.com. Available at: https://www.red3d.com/cwr/boids/
